@@ -1,3 +1,8 @@
+# Projet de fin de formation chez Dawan
+
+Projet libre pour un site frontend uniquement faisant appel à au moins une API.
+CheackyKicks est un site de vente de chaussure. Le site fait appel à une api de rapidAPI. Les fonctionnaités de paiements n'ont pas été implémenté car site uniquement front. Les données user ont été stocké dans le localStorage
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
